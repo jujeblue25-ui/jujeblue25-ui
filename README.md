@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/jujeblue25-ui/count.svg"/>
+  <img src="https://profile-counter.glitch.me/BlueStack99/count.svg"/>
   <br/>
 </div>
 <div>
