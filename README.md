@@ -1,13 +1,3 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/jujeblue25-ui/count.svg"/>
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jujeblue25-ui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujeblue25-ui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jujeblue25-ui&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
 # 💫 About Me:
 # ¡Hola, mundo! 👋 Soy Bluestack99 Soy un entusiasta de la tecnología dando mis primeros pasos en el increíble mundo de la programación. Creé este espacio para documentar mi aprendizaje, guardar mis primeros proyectos y ver mi progreso con el tiempo. 🚀 ### 🌱 Sobre mi aprendizaje actual * **Lenguajes que estoy explorando:Python *Herramientas que estoy aprendiendo a usar:** Git_hub,Visual Studios*  * 🎯 Mis metas * Seguir aprendiendo codigo. * Completar mi primer proyecto 100% funcional este año. * ¡Perderle el miedo a romper el código y leer errores! ### 🤝 Conectemos Como estoy empezando, valoro mucho los consejos, el *feedback* y las buenas prácticas que otros desarrolladores puedan compartirme. * **Email* [jujeblue25@gmail.com] *
 
